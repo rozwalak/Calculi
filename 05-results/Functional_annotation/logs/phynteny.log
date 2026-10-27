@@ -1,0 +1,129 @@
+
+===== 2026-10-22T21:59:27+00:00 :: phynteny :: phynteny_transformer /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/phold/phold.gbk -o /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/phynteny -m /data/db/phynteny_models/models -f =====
+Reading models from directory:  /data/db/phynteny_models/models
+/opt/conda/lib/python3.12/site-packages/src/format_data.py:22: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources
+2026-10-22 21:59:31.806 | INFO     | __main__:main:297 - Found 10 model files in: /data/db/phynteny_models/models
+2026-10-22 21:59:31.806 | INFO     | __main__:main:327 - Found integer_category.pkl at: /opt/conda/lib/python3.12/site-packages/phynteny_utils/integer_category.pkl
+2026-10-22 21:59:31.806 | INFO     | __main__:main:336 - Using integer_category.pkl from: /opt/conda/lib/python3.12/site-packages/phynteny_utils/integer_category.pkl
+2026-10-22 21:59:31.806 | INFO     | src.format_data:read_annotations_information:841 - Using phrog annotation file: /opt/conda/lib/python3.12/site-packages/src/phrog_annotation_info/phold_annots.tsv
+2026-10-22 21:59:31.975 | INFO     | src.format_data:read_annotations_information:875 - Using integer category file: /opt/conda/lib/python3.12/site-packages/phynteny_utils/integer_category.pkl
+2026-10-22 21:59:32.000 | INFO     | __main__:main:345 - Starting Phynteny transformer v0.1.3
+2026-10-22 21:59:32.001 | INFO     | __main__:main:346 - Command executed: in=/data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/phold/phold.gbk, out=/data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/phynteny, esm_model=facebook/esm2_t33_650M_UR50D, models=/data/db/phynteny_models/models, force=True
+2026-10-22 21:59:32.001 | INFO     | __main__:main:347 - Repository homepage is https://github.com/susiegriggo/Phynteny_transformer/tree/main
+2026-10-22 21:59:32.001 | INFO     | __main__:main:348 - Written by Susanna Grigson: susie.grigson@flinders.edu.au
+2026-10-22 21:59:32.001 | INFO     | src.format_data:read_genbank_file:910 - Reading genbank file!
+2026-10-22 21:59:32.001 | INFO     | src.format_data:read_genbank_file:912 - Infile: /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/phold/phold.gbk
+2026-10-22 21:59:32.038 | INFO     | __main__:main:352 - Genbank file read
+2026-10-22 21:59:32.038 | INFO     | __main__:main:356 - Number of genomes loaded from GenBank: 9
+2026-10-22 21:59:32.038 | INFO     | __main__:main:367 - Extracting fasta from genbank
+2026-10-22 21:59:32.040 | INFO     | __main__:main:377 - Computing ESM embeddings
+2026-10-22 21:59:32.040 | INFO     | __main__:main:378 - ... if step is being slow consider using GPU!
+
+Loading weights:   0%|          | 0/534 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 534/534 [00:00<00:00, 9669.76it/s]
+[transformers] [1mEsmModel LOAD REPORT[0m from: facebook/esm2_t33_650M_UR50D
+Key                       | Status     | 
+--------------------------+------------+-
+lm_head.bias              | UNEXPECTED | 
+lm_head.dense.bias        | UNEXPECTED | 
+lm_head.dense.weight      | UNEXPECTED | 
+lm_head.layer_norm.weight | UNEXPECTED | 
+lm_head.layer_norm.bias   | UNEXPECTED | 
+pooler.dense.weight       | MISSING    | 
+pooler.dense.bias         | MISSING    | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+2026-10-22 21:59:32.256 | INFO     | src.format_data:extract_embeddings:572 - Loaded model: facebook/esm2_t33_650M_UR50D
+2026-10-22 21:59:32.257 | INFO     | src.format_data:extract_embeddings:573 - Loaded model without checkpoint
+2026-10-22 21:59:32.258 | INFO     | src.format_data:extract_embeddings:581 - CUDA NOT IN USE :(
+2026-10-22 21:59:32.259 | INFO     | src.format_data:read_fasta:460 - Read 750 valid sequences from /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/phynteny/phynteny.fasta
+2026-10-22 21:59:32.259 | INFO     | src.format_data:extract_embeddings:591 - Number of sequences: 750
+2026-10-22 21:59:32.259 | INFO     | src.format_data:extract_embeddings:596 - Set tokenizer max_length to 1024
+2026-10-22 21:59:32.259 | INFO     | src.format_data:batch_sequences:489 - Batching 750 valid sequences
+2026-10-22 21:59:32.624 | INFO     | src.format_data:batch_sequences:520 - Created 713 batches from 750 sequences
+2026-10-22 21:59:32.624 | INFO     | src.format_data:extract_embeddings:600 - Number of batches: 713
+2026-10-22 22:03:11.052 | INFO     | src.format_data:extract_embeddings:673 - Embeddings saved successfully
+2026-10-22 22:03:11.063 | INFO     | __main__:main:387 - Data preparation complete. Checking dimensions:
+2026-10-22 22:03:11.063 | INFO     | __main__:main:388 - Number of genomes: 9
+2026-10-22 22:03:11.063 | INFO     | __main__:main:410 - Creating predictor object
+2026-10-22 22:03:11.063 | INFO     | __main__:main:414 - Reading models from directory: /data/db/phynteny_models/models
+2026-10-22 22:03:11.063 | INFO     | __main__:main:415 - Model parameters: input_dim=1280, num_classes=9, num_heads=8, hidden_dim=512, lstm_hidden_dim=512, dropout=0.1, use_lstm=True, max_len=1500, protein_dropout_rate=0.6, attention=circular, positional_encoding_type=sinusoidal, pre_norm=False, progressive_dropout=True, initial_dropout_rate=1.0, final_dropout_rate=0.4, output_dim=None, num_layers=2
+2026-10-22 22:03:11.063 | INFO     | src.predictor:read_models_from_directory:722 - Loading models with parameters: input_dim=1280, num_classes=9, output_dim=9, num_heads=8, hidden_dim=512, lstm_hidden_dim=512, dropout=0.1, use_lstm=True, max_len=1500, protein_dropout_rate=0.6, attention=circular, positional_encoding_type=sinusoidal, pre_norm=False
+2026-10-22 22:03:11.090 | INFO     | src.predictor:read_model:623 - Reading model with input_dim=1280, num_classes=9, output_dim=9, num_heads=8, hidden_dim=512, lstm_hidden_dim=512, dropout=0.1, use_lstm=True, max_len=1500, protein_dropout_rate=0.6, attention=circular, positional_encoding_type=sinusoidal, pre_norm=False, num_layers=2
+/opt/conda/lib/python3.12/site-packages/src/model_onehot.py:1269: UserWarning: enable_nested_tensor is True, but self.use_nested_tensor is False because encoder_layer was not TransformerEncoderLayer
+  self.transformer_encoder = nn.TransformerEncoder(encoder_layers, num_layers=num_layers).to(device)
+2026-10-22 22:03:11.115 | INFO     | src.predictor:read_model:680 - Initializing protein_feature_dropout buffers with dummy forward pass
+2026-10-22 22:03:11.140 | INFO     | src.predictor:read_model:623 - Reading model with input_dim=1280, num_classes=9, output_dim=9, num_heads=8, hidden_dim=512, lstm_hidden_dim=512, dropout=0.1, use_lstm=True, max_len=1500, protein_dropout_rate=0.6, attention=circular, positional_encoding_type=sinusoidal, pre_norm=False, num_layers=2
+2026-10-22 22:03:11.167 | INFO     | src.predictor:read_model:680 - Initializing protein_feature_dropout buffers with dummy forward pass
+2026-10-22 22:03:11.191 | INFO     | src.predictor:read_model:623 - Reading model with input_dim=1280, num_classes=9, output_dim=9, num_heads=8, hidden_dim=512, lstm_hidden_dim=512, dropout=0.1, use_lstm=True, max_len=1500, protein_dropout_rate=0.6, attention=circular, positional_encoding_type=sinusoidal, pre_norm=False, num_layers=2
+2026-10-22 22:03:11.223 | INFO     | src.predictor:read_model:680 - Initializing protein_feature_dropout buffers with dummy forward pass
+2026-10-22 22:03:11.245 | INFO     | src.predictor:read_model:623 - Reading model with input_dim=1280, num_classes=9, output_dim=9, num_heads=8, hidden_dim=512, lstm_hidden_dim=512, dropout=0.1, use_lstm=True, max_len=1500, protein_dropout_rate=0.6, attention=circular, positional_encoding_type=sinusoidal, pre_norm=False, num_layers=2
+2026-10-22 22:03:11.277 | INFO     | src.predictor:read_model:680 - Initializing protein_feature_dropout buffers with dummy forward pass
+2026-10-22 22:03:11.301 | INFO     | src.predictor:read_model:623 - Reading model with input_dim=1280, num_classes=9, output_dim=9, num_heads=8, hidden_dim=512, lstm_hidden_dim=512, dropout=0.1, use_lstm=True, max_len=1500, protein_dropout_rate=0.6, attention=circular, positional_encoding_type=sinusoidal, pre_norm=False, num_layers=2
+2026-10-22 22:03:11.338 | INFO     | src.predictor:read_model:680 - Initializing protein_feature_dropout buffers with dummy forward pass
+2026-10-22 22:03:11.362 | INFO     | src.predictor:read_model:623 - Reading model with input_dim=1280, num_classes=9, output_dim=9, num_heads=8, hidden_dim=512, lstm_hidden_dim=512, dropout=0.1, use_lstm=True, max_len=1500, protein_dropout_rate=0.6, attention=circular, positional_encoding_type=sinusoidal, pre_norm=False, num_layers=2
+2026-10-22 22:03:11.406 | INFO     | src.predictor:read_model:680 - Initializing protein_feature_dropout buffers with dummy forward pass
+2026-10-22 22:03:11.430 | INFO     | src.predictor:read_model:623 - Reading model with input_dim=1280, num_classes=9, output_dim=9, num_heads=8, hidden_dim=512, lstm_hidden_dim=512, dropout=0.1, use_lstm=True, max_len=1500, protein_dropout_rate=0.6, attention=circular, positional_encoding_type=sinusoidal, pre_norm=False, num_layers=2
+2026-10-22 22:03:11.470 | INFO     | src.predictor:read_model:680 - Initializing protein_feature_dropout buffers with dummy forward pass
+2026-10-22 22:03:11.494 | INFO     | src.predictor:read_model:623 - Reading model with input_dim=1280, num_classes=9, output_dim=9, num_heads=8, hidden_dim=512, lstm_hidden_dim=512, dropout=0.1, use_lstm=True, max_len=1500, protein_dropout_rate=0.6, attention=circular, positional_encoding_type=sinusoidal, pre_norm=False, num_layers=2
+2026-10-22 22:03:11.536 | INFO     | src.predictor:read_model:680 - Initializing protein_feature_dropout buffers with dummy forward pass
+2026-10-22 22:03:11.560 | INFO     | src.predictor:read_model:623 - Reading model with input_dim=1280, num_classes=9, output_dim=9, num_heads=8, hidden_dim=512, lstm_hidden_dim=512, dropout=0.1, use_lstm=True, max_len=1500, protein_dropout_rate=0.6, attention=circular, positional_encoding_type=sinusoidal, pre_norm=False, num_layers=2
+2026-10-22 22:03:11.602 | INFO     | src.predictor:read_model:680 - Initializing protein_feature_dropout buffers with dummy forward pass
+2026-10-22 22:03:11.625 | INFO     | src.predictor:read_model:623 - Reading model with input_dim=1280, num_classes=9, output_dim=9, num_heads=8, hidden_dim=512, lstm_hidden_dim=512, dropout=0.1, use_lstm=True, max_len=1500, protein_dropout_rate=0.6, attention=circular, positional_encoding_type=sinusoidal, pre_norm=False, num_layers=2
+2026-10-22 22:03:11.667 | INFO     | src.predictor:read_model:680 - Initializing protein_feature_dropout buffers with dummy forward pass
+/opt/conda/lib/python3.12/site-packages/sklearn/base.py:525: InconsistentVersionWarning: Trying to unpickle estimator IsotonicRegression from version 1.5.1 when using version 1.9.0. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+2026-10-22 22:03:11.683 | INFO     | __main__:main:476 - Loaded ensemble of 10 isotonic regression calibration models
+2026-10-22 22:03:11.683 | INFO     | __main__:main:477 - USING ENSEMBLE ISOTONIC REGRESSION for confidence calibration
+2026-10-22 22:03:11.683 | INFO     | __main__:main:490 - Making predictions using batch inference
+2026-10-22 22:03:11.683 | INFO     | src.predictor:predict_inference:117 - Starting batch inference with batch size 128
+2026-10-22 22:03:11.688 | INFO     | src.predictor:predict_inference:144 - Processing 9 samples in batches of 128
+2026-10-22 22:03:11.854 | INFO     | src.predictor:predict_inference:232 - Total batches processed: 1
+2026-10-22 22:03:11.854 | INFO     | src.predictor:predict_inference:233 - Collected scores for 9/9 samples
+2026-10-22 22:03:11.854 | INFO     | __main__:main:523 - Calculating confidence scores using isotonic regression calibration
+2026-10-22 22:03:11.855 | INFO     | src.predictor:compute_confidence_isotonic:832 - Computing confidence scores using isotonic regression calibration
+2026-10-22 22:03:11.855 | INFO     | src.predictor:compute_confidence_isotonic:842 - Model 0 calibration keys: ['integration and excision', 'connector', 'head and packaging', 'DNA, RNA and nucleotide metabolism', 'lysis', 'moron, auxiliary metabolic gene and host takeover', 'other', 'tail', 'transcription regulation']
+2026-10-22 22:03:11.865 | INFO     | src.predictor:compute_confidence_isotonic:842 - Model 1 calibration keys: ['integration and excision', 'connector', 'head and packaging', 'DNA, RNA and nucleotide metabolism', 'lysis', 'moron, auxiliary metabolic gene and host takeover', 'other', 'tail', 'transcription regulation']
+2026-10-22 22:03:11.866 | INFO     | src.predictor:compute_confidence_isotonic:842 - Model 2 calibration keys: ['integration and excision', 'connector', 'head and packaging', 'DNA, RNA and nucleotide metabolism', 'lysis', 'moron, auxiliary metabolic gene and host takeover', 'other', 'tail', 'transcription regulation']
+2026-10-22 22:03:11.867 | INFO     | src.predictor:compute_confidence_isotonic:842 - Model 3 calibration keys: ['integration and excision', 'connector', 'head and packaging', 'DNA, RNA and nucleotide metabolism', 'lysis', 'moron, auxiliary metabolic gene and host takeover', 'other', 'tail', 'transcription regulation']
+2026-10-22 22:03:11.868 | INFO     | src.predictor:compute_confidence_isotonic:842 - Model 4 calibration keys: ['integration and excision', 'connector', 'head and packaging', 'DNA, RNA and nucleotide metabolism', 'lysis', 'moron, auxiliary metabolic gene and host takeover', 'other', 'tail', 'transcription regulation']
+2026-10-22 22:03:11.869 | INFO     | src.predictor:compute_confidence_isotonic:842 - Model 5 calibration keys: ['integration and excision', 'connector', 'head and packaging', 'DNA, RNA and nucleotide metabolism', 'lysis', 'moron, auxiliary metabolic gene and host takeover', 'other', 'tail', 'transcription regulation']
+2026-10-22 22:03:11.870 | INFO     | src.predictor:compute_confidence_isotonic:842 - Model 6 calibration keys: ['integration and excision', 'connector', 'head and packaging', 'DNA, RNA and nucleotide metabolism', 'lysis', 'moron, auxiliary metabolic gene and host takeover', 'other', 'tail', 'transcription regulation']
+2026-10-22 22:03:11.872 | INFO     | src.predictor:compute_confidence_isotonic:842 - Model 7 calibration keys: ['integration and excision', 'connector', 'head and packaging', 'DNA, RNA and nucleotide metabolism', 'lysis', 'moron, auxiliary metabolic gene and host takeover', 'other', 'tail', 'transcription regulation']
+2026-10-22 22:03:11.873 | INFO     | src.predictor:compute_confidence_isotonic:842 - Model 8 calibration keys: ['integration and excision', 'connector', 'head and packaging', 'DNA, RNA and nucleotide metabolism', 'lysis', 'moron, auxiliary metabolic gene and host takeover', 'other', 'tail', 'transcription regulation']
+2026-10-22 22:03:11.874 | INFO     | src.predictor:compute_confidence_isotonic:842 - Model 9 calibration keys: ['integration and excision', 'connector', 'head and packaging', 'DNA, RNA and nucleotide metabolism', 'lysis', 'moron, auxiliary metabolic gene and host takeover', 'other', 'tail', 'transcription regulation']
+2026-10-22 22:03:11.919 | INFO     | src.predictor:compute_confidence_isotonic:1021 - Overall confidence statistics:
+2026-10-22 22:03:11.919 | INFO     | src.predictor:compute_confidence_isotonic:1022 - Min: 0.1321, Max: 1.0000, Mean: 0.4203
+2026-10-22 22:03:11.920 | INFO     | __main__:main:580 - Creating SeqRecord objects for GenBank output
+2026-10-22 22:03:11.920 | INFO     | __main__:main:582 - Writing predictions to genbank file
+2026-10-22 22:03:11.920 | INFO     | __main__:main:585 - Creating GenBank and table outputs
+2026-10-22 22:03:11.920 | INFO     | __main__:main:589 - Writing GenBank and table data for 9 genomes
+2026-10-22 22:03:11.920 | INFO     | __main__:main:594 - Creating category map from the first model in the ensemble
+2026-10-22 22:03:11.920 | INFO     | src.predictor:write_predictions_to_genbank:308 - Writing predictions to GenBank file: /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/phynteny/phynteny.gbk
+2026-10-22 22:03:11.920 | INFO     | src.predictor:write_predictions_to_genbank:329 - Processing genome #0: ERS11702752_NODE_1_length_73747_cov_71.8
+2026-10-22 22:03:11.920 | INFO     | src.predictor:write_predictions_to_genbank:341 - Genome ERS11702752_NODE_1_length_73747_cov_71.8 has 81 sequences
+2026-10-22 22:03:11.937 | INFO     | src.predictor:write_predictions_to_genbank:329 - Processing genome #1: ERS11702779_NODE_6_length_75301_cov_34.8
+2026-10-22 22:03:11.937 | INFO     | src.predictor:write_predictions_to_genbank:341 - Genome ERS11702779_NODE_6_length_75301_cov_34.8 has 87 sequences
+2026-10-22 22:03:11.953 | INFO     | src.predictor:write_predictions_to_genbank:329 - Processing genome #2: ERS15409398_NODE_13_length_70913_cov_527.1
+2026-10-22 22:03:11.953 | INFO     | src.predictor:write_predictions_to_genbank:341 - Genome ERS15409398_NODE_13_length_70913_cov_527.1 has 80 sequences
+2026-10-22 22:03:11.968 | INFO     | src.predictor:write_predictions_to_genbank:329 - Processing genome #3: ERS15409402_NODE_18_length_70845_cov_128.4
+2026-10-22 22:03:11.968 | INFO     | src.predictor:write_predictions_to_genbank:341 - Genome ERS15409402_NODE_18_length_70845_cov_128.4 has 79 sequences
+2026-10-22 22:03:11.982 | INFO     | src.predictor:write_predictions_to_genbank:329 - Processing genome #4: ERS26854148_NODE_1_length_74786_cov_128.6
+2026-10-22 22:03:11.982 | INFO     | src.predictor:write_predictions_to_genbank:341 - Genome ERS26854148_NODE_1_length_74786_cov_128.6 has 87 sequences
+2026-10-22 22:03:11.998 | INFO     | src.predictor:write_predictions_to_genbank:329 - Processing genome #5: ERS3395766_NODE_44_length_76109_cov_26.283207
+2026-10-22 22:03:11.998 | INFO     | src.predictor:write_predictions_to_genbank:341 - Genome ERS3395766_NODE_44_length_76109_cov_26.283207 has 91 sequences
+2026-10-22 22:03:12.014 | INFO     | src.predictor:write_predictions_to_genbank:329 - Processing genome #6: ERS3774444_NODE_3_length_74272_cov_84.8
+2026-10-22 22:03:12.014 | INFO     | src.predictor:write_predictions_to_genbank:341 - Genome ERS3774444_NODE_3_length_74272_cov_84.8 has 83 sequences
+2026-10-22 22:03:12.030 | INFO     | src.predictor:write_predictions_to_genbank:329 - Processing genome #7: SRS11653574_NODE_1_length_73277_cov_192.2
+2026-10-22 22:03:12.030 | INFO     | src.predictor:write_predictions_to_genbank:341 - Genome SRS11653574_NODE_1_length_73277_cov_192.2 has 76 sequences
+2026-10-22 22:03:12.044 | INFO     | src.predictor:write_predictions_to_genbank:329 - Processing genome #8: SRS15300801_NODE_39_length_72738_cov_1583.9
+2026-10-22 22:03:12.044 | INFO     | src.predictor:write_predictions_to_genbank:341 - Genome SRS15300801_NODE_39_length_72738_cov_1583.9 has 86 sequences
+2026-10-22 22:03:12.059 | INFO     | src.predictor:write_predictions_to_genbank:568 - Successfully wrote predictions to /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/phynteny/phynteny.gbk
+2026-10-22 22:03:12.059 | INFO     | src.predictor:write_predictions_to_genbank:569 - Statistics: 499 genes with unknown function, 7 predictions added
+2026-10-22 22:03:12.103 | INFO     | src.format_data:generate_table:1195 - Table generation complete.
+2026-10-22 22:03:12.103 | INFO     | __main__:main:637 - Predictions completed
+2026-10-22 22:03:12.103 | INFO     | __main__:main:651 - Total execution time: 220.30 seconds

@@ -1,0 +1,751 @@
+ID	start	end	strand	phrog_id	phrog_category	phynteny_category	phynteny_score	phynteny_confidence	phage
+ERS11702752_NODE_1_length_73747_cov_71.8_0	0	14208	+	30335	unknown function	lysis	2.3651	0.2091	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_1	14228	15155	+	130	transcription regulation	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_2	15151	15454	+	739	lysis	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_3	15435	15768	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.7926	0.1704	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_4	15673	16156	+	No_PHROG	unknown function	lysis	1.8705	0.1693	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_5	16350	18933	+	4492	tail	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_6	18934	19138	+	No_PHROG	unknown function	head and packaging	1.2684	0.2069	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_7	19237	19834	-	799	other	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_8	19830	20862	-	26352	moron, auxiliary metabolic gene and host takeover	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_9	20881	20980	-	No_PHROG	unknown function	lysis	1.1762	0.1960	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_10	20996	21146	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	1.1434	0.4487	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_11	21138	21540	-	130	transcription regulation	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_12	21536	21962	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.5543	0.2000	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_13	21961	22231	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.1820	0.1709	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_14	22291	23125	-	291	lysis	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_15	23137	25195	-	332	connector	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_16	25142	26825	-	2	head and packaging	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_17	26839	27070	-	9500	transcription regulation	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_18	27032	27569	-	No_PHROG	unknown function	head and packaging	9.5300	0.6826	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_19	27580	27769	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	2.3755	0.1785	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_20	27855	29358	-	62	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_21	29404	29644	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	6.2867	0.4812	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_22	29640	29979	-	93	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_23	30085	30802	-	85	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_24	30798	31266	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.5848	0.2833	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_25	31285	32068	-	130	transcription regulation	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_26	32091	34155	-	1252	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_27	34135	34465	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.7399	0.2671	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_28	34532	35270	-	112	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_29	35302	35596	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.3252	0.3742	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_30	35619	36855	-	69	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_31	36905	38846	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.8351	0.4633	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_32	38823	39204	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.9311	0.3927	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_33	39220	39913	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	9.0022	0.5035	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_34	39914	42464	-	1156	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_35	42568	42817	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.6905	0.3030	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_36	42761	43211	-	No_PHROG	unknown function	transcription regulation	9.4253	0.6365	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_37	43194	43986	-	4191	other	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_38	43982	44699	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.4673	0.3948	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_39	44740	45448	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.0656	0.3408	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_40	45444	46155	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.2376	0.3620	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_41	46151	46937	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.4636	0.2606	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_42	46952	48887	-	16683	other	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_43	48883	48973	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	5.9785	0.2422	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_44	49055	49760	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.4501	0.3026	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_45	49899	50703	-	No_PHROG	unknown function	integration and excision	1.3503	0.2275	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_46	50732	50921	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	8.4809	0.3984	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_47	50951	51425	-	No_PHROG	unknown function	integration and excision	1.6280	0.2128	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_48	51490	51898	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.1402	0.2519	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_49	51996	52749	-	48093	unknown function	DNA, RNA and nucleotide metabolism	4.3069	0.2205	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_50	52925	53039	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	3.9782	0.2209	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_51	53109	53277	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	3.1784	0.2242	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_52	53352	53466	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	3.1889	0.2049	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_53	53564	53660	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	7.7691	0.4729	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_54	53693	54488	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	4.5020	0.2253	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_55	54530	54767	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.0961	0.1422	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_56	54769	54874	+	No_PHROG	unknown function	head and packaging	1.2052	0.1590	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_57	54988	55363	+	No_PHROG	unknown function	head and packaging	3.4599	0.3139	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_58	55394	57485	+	31	tail	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_59	57537	58005	+	No_PHROG	unknown function	head and packaging	2.1951	0.1837	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_60	58001	58598	+	No_PHROG	unknown function	head and packaging	2.3222	0.1802	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_61	58611	59046	+	No_PHROG	unknown function	head and packaging	4.1043	0.1868	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_62	59061	59670	+	No_PHROG	unknown function	head and packaging	8.3033	0.3715	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_63	59716	60790	+	267	head and packaging	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_64	60802	61819	+	No_PHROG	unknown function	head and packaging	4.7639	0.2189	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_65	61943	62345	+	No_PHROG	unknown function	head and packaging	3.4323	0.1820	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_66	62391	62481	+	No_PHROG	unknown function	head and packaging	2.9080	0.1711	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_67	62609	63368	+	130	transcription regulation	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_68	63396	63498	+	No_PHROG	unknown function	head and packaging	4.0990	0.2053	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_69	63476	64163	+	399	head and packaging	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_70	64159	64786	+	437	head and packaging	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_71	64775	65318	+	No_PHROG	unknown function	head and packaging	4.8439	0.2876	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_72	65314	65818	+	No_PHROG	unknown function	head and packaging	5.5608	0.3015	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_73	65820	67587	+	511	head and packaging	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_74	67607	68096	+	21390	unknown function	head and packaging	4.6667	0.1882	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_75	68111	68861	+	2657	transcription regulation	NA	NA	NA	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_76	68953	69760	+	No_PHROG	unknown function	head and packaging	3.9328	0.3091	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_77	69761	70373	+	No_PHROG	unknown function	head and packaging	1.8057	0.1902	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_78	70376	72719	+	31957	unknown function	head and packaging	3.0882	0.2469	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_79	72715	73225	+	No_PHROG	unknown function	lysis	6.4467	0.3209	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702752_NODE_1_length_73747_cov_71.8_80	73224	73746	+	No_PHROG	unknown function	lysis	8.8572	0.4681	ERS11702752_NODE_1_length_73747_cov_71.8
+ERS11702779_NODE_6_length_75301_cov_34.8_0	0	1125	+	No_PHROG	unknown function	head and packaging	1.6285	0.2053	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_1	1237	13222	+	13543	moron, auxiliary metabolic gene and host takeover	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_2	13334	13607	+	130	transcription regulation	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_3	13680	14451	+	130	transcription regulation	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_4	14476	15238	+	130	transcription regulation	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_5	15234	15537	+	739	lysis	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_6	15518	15851	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.3145	0.1506	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_7	15854	16241	+	No_PHROG	unknown function	lysis	5.4671	0.2250	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_8	16360	16474	+	No_PHROG	unknown function	head and packaging	1.9758	0.1724	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_9	16498	19021	+	1330	tail	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_10	19022	19226	+	No_PHROG	unknown function	head and packaging	2.9572	0.2142	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_11	19325	19913	-	799	other	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_12	19918	20950	-	26352	moron, auxiliary metabolic gene and host takeover	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_13	20966	21821	-	363	other	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_14	21826	22582	-	130	transcription regulation	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_15	22599	23367	-	130	transcription regulation	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_16	23452	23878	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	5.1785	0.1850	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_17	23877	24147	-	No_PHROG	unknown function	head and packaging	1.0163	0.1703	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_18	24207	25041	-	291	lysis	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_19	25053	27111	-	332	connector	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_20	27058	28741	-	2	head and packaging	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_21	28755	28986	-	9500	transcription regulation	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_22	28948	29485	-	No_PHROG	unknown function	head and packaging	9.7229	0.7912	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_23	29496	29685	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	2.0380	0.1938	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_24	29771	31274	-	62	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_25	31312	31552	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	5.2871	0.4854	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_26	31548	31887	-	93	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_27	31993	32710	-	85	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_28	32706	33174	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.1742	0.2924	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_29	33193	33952	-	130	transcription regulation	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_30	33975	36162	-	1252	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_31	36193	36370	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.8857	0.2846	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_32	36417	37134	-	112	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_33	37211	37505	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.6240	0.2761	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_34	37513	38749	-	69	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_35	38786	40760	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.5437	0.3222	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_36	40737	41118	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.1204	0.3805	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_37	41198	41534	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	4.8351	0.3163	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_38	41619	42306	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.4769	0.3977	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_39	42307	44836	-	1156	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_40	44940	45189	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	5.9598	0.2669	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_41	45220	45829	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.1155	0.2388	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_42	45788	46190	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.7120	0.2671	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_43	46182	46578	-	No_PHROG	unknown function	transcription regulation	9.3970	0.6304	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_44	46561	47353	-	4191	other	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_45	47349	48054	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.3331	0.2511	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_46	48095	48803	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.6279	0.2752	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_47	48799	49510	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.7789	0.3382	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_48	49506	50286	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	4.7514	0.2600	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_49	50301	52236	-	16683	other	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_50	52207	52321	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.9942	0.2834	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_51	52402	53107	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	5.4429	0.2588	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_52	53138	53831	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	4.2889	0.2276	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_53	53845	54391	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	4.1782	0.2443	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_54	54438	54546	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.6165	0.2697	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_55	54603	54714	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.5671	0.2578	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_56	54831	55017	+	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	9.5507	0.6921	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_57	54998	55091	+	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	8.8565	0.4665	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_58	55177	55813	+	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	6.7499	0.2353	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_59	55981	56080	+	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	4.4060	0.1700	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_60	56076	56199	+	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	6.3759	0.2203	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_61	56195	56309	+	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	2.7247	0.1414	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_62	56375	56531	+	No_PHROG	unknown function	lysis	1.9521	0.1705	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_63	56645	57020	+	No_PHROG	unknown function	connector	1.1231	0.2883	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_64	57051	59142	+	6942	tail	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_65	59181	59649	+	No_PHROG	unknown function	head and packaging	3.7910	0.1743	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_66	59645	60242	+	No_PHROG	unknown function	head and packaging	2.4527	0.1655	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_67	60255	60684	+	No_PHROG	unknown function	head and packaging	3.5762	0.1729	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_68	60699	61296	+	No_PHROG	unknown function	head and packaging	7.5544	0.2971	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_69	61342	62416	+	267	head and packaging	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_70	62440	63877	-	No_PHROG	unknown function	head and packaging	2.6807	0.1864	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_71	63863	64019	-	No_PHROG	unknown function	head and packaging	1.3294	0.1775	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_72	64086	64185	+	No_PHROG	unknown function	other	4.7909	0.2016	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_73	64156	64903	+	130	transcription regulation	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_74	64940	65696	+	130	transcription regulation	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_75	65718	65826	+	No_PHROG	unknown function	head and packaging	3.2856	0.2075	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_76	65804	66491	+	399	head and packaging	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_77	66487	67114	+	437	head and packaging	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_78	67103	67646	+	No_PHROG	unknown function	head and packaging	4.6206	0.2690	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_79	67642	68146	+	No_PHROG	unknown function	head and packaging	5.6763	0.2757	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_80	68148	69915	+	511	head and packaging	NA	NA	NA	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_81	69895	70420	+	21390	unknown function	head and packaging	4.1161	0.2379	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_82	70504	71311	+	No_PHROG	unknown function	head and packaging	3.2435	0.2929	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_83	71312	71924	+	No_PHROG	unknown function	head and packaging	1.0750	0.2052	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_84	71927	74273	+	No_PHROG	unknown function	head and packaging	1.6865	0.2550	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_85	74269	74779	+	No_PHROG	unknown function	lysis	4.1275	0.2393	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS11702779_NODE_6_length_75301_cov_34.8_86	74778	75300	+	No_PHROG	unknown function	lysis	9.0898	0.5248	ERS11702779_NODE_6_length_75301_cov_34.8
+ERS15409398_NODE_13_length_70913_cov_527.1_0	0	13179	+	No_PHROG	unknown function	head and packaging	1.4916	0.2245	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_1	13201	13330	+	No_PHROG	unknown function	lysis	1.2220	0.1880	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_2	13403	13568	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.4464	0.1628	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_3	13560	13692	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.6283	0.1990	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_4	13789	13978	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.8046	0.1823	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_5	13988	14093	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.2185	0.1615	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_6	14149	14644	+	130	transcription regulation	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_7	14782	14920	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.0769	0.1738	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_8	14916	15219	+	739	lysis	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_9	15200	15533	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.2432	0.2094	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_10	15536	15923	+	No_PHROG	unknown function	lysis	2.5289	0.2168	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_11	15927	16227	-	No_PHROG	unknown function	head and packaging	1.2562	0.1786	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_12	16192	18703	+	1775	head and packaging	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_13	18704	18908	+	No_PHROG	unknown function	head and packaging	1.1276	0.2090	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_14	19007	19604	-	799	other	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_15	19600	20632	-	26352	moron, auxiliary metabolic gene and host takeover	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_16	20633	21227	-	363	other	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_17	21243	21669	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	3.8390	0.2260	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_18	21668	21938	-	No_PHROG	unknown function	integration and excision	1.8553	0.1966	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_19	21998	22832	-	291	lysis	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_20	22844	24899	-	332	connector	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_21	24846	26529	-	2	head and packaging	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_22	26543	26774	-	9500	transcription regulation	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_23	26736	27273	-	No_PHROG	unknown function	head and packaging	9.5567	0.7043	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_24	27284	27473	-	No_PHROG	unknown function	lysis	1.7999	0.1947	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_25	27557	29063	-	62	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_26	29075	29315	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	8.3067	0.4779	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_27	29298	29649	-	93	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_28	29755	30472	-	85	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_29	30468	30936	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.4851	0.2793	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_30	30968	31475	-	7940	transcription regulation	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_31	31498	33562	-	1252	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_32	33542	33869	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.1809	0.2635	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_33	33940	34657	-	112	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_34	34703	35012	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.7347	0.2951	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_35	35024	36260	-	69	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_36	36301	38245	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.9308	0.4848	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_37	38237	38603	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.2609	0.4203	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_38	38619	39321	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	9.7394	0.8016	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_39	39322	41887	-	1156	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_40	41967	42216	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.1138	0.2573	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_41	42255	42678	-	No_PHROG	unknown function	transcription regulation	9.2892	0.5877	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_42	42661	43474	-	4191	other	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_43	43470	44160	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.3161	0.2715	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_44	44166	44955	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.1611	0.3522	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_45	44984	45692	-	No_PHROG	unknown function	integration and excision	1.6825	0.2562	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_46	45688	46402	-	No_PHROG	unknown function	integration and excision	2.0334	0.2413	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_47	46398	47175	-	No_PHROG	unknown function	integration and excision	1.7239	0.2256	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_48	47205	49089	-	16683	other	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_49	49222	49924	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.6614	0.2662	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_50	49997	50096	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.4905	0.3557	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_51	50204	50516	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	3.0256	0.1711	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_52	50563	50656	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.7158	0.2174	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_53	50727	50856	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.7059	0.2102	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_54	51138	51243	+	No_PHROG	unknown function	connector	1.5601	0.1666	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_55	51258	51384	+	No_PHROG	unknown function	head and packaging	1.2528	0.1650	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_56	51398	52538	-	No_PHROG	unknown function	head and packaging	2.4195	0.1595	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_57	52634	52985	+	No_PHROG	unknown function	connector	1.3437	0.2314	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_58	53016	55107	+	31	tail	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_59	55145	55613	+	No_PHROG	unknown function	head and packaging	4.0550	0.1834	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_60	55619	56222	+	No_PHROG	unknown function	head and packaging	2.6203	0.1783	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_61	56258	56681	+	No_PHROG	unknown function	head and packaging	2.5605	0.1663	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_62	56753	56843	-	No_PHROG	unknown function	head and packaging	1.8878	0.1631	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_63	56829	58461	-	No_PHROG	unknown function	head and packaging	1.6191	0.1961	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_64	58461	59472	+	83020	unknown function	head and packaging	4.3988	0.1959	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_65	59528	59930	+	No_PHROG	unknown function	head and packaging	3.1694	0.1808	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_66	60038	60134	+	No_PHROG	unknown function	head and packaging	1.8726	0.1583	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_67	60442	61228	+	130	transcription regulation	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_68	61349	61439	+	No_PHROG	unknown function	head and packaging	5.2830	0.2277	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_69	61417	62104	+	399	head and packaging	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_70	62100	62727	+	437	head and packaging	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_71	62716	63259	+	No_PHROG	unknown function	head and packaging	4.6073	0.3213	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_72	63255	63759	+	No_PHROG	unknown function	head and packaging	5.2221	0.3382	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_73	63761	65528	+	511	head and packaging	NA	NA	NA	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_74	65544	66033	+	21390	unknown function	head and packaging	4.1705	0.2794	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_75	66074	66926	+	No_PHROG	unknown function	head and packaging	3.9742	0.3538	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_76	66927	67539	+	No_PHROG	unknown function	head and packaging	2.0581	0.1880	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_77	67542	69885	+	No_PHROG	unknown function	head and packaging	2.5063	0.2572	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_78	69881	70391	+	No_PHROG	unknown function	lysis	7.2036	0.3132	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409398_NODE_13_length_70913_cov_527.1_79	70390	70912	+	No_PHROG	unknown function	lysis	9.0490	0.5165	ERS15409398_NODE_13_length_70913_cov_527.1
+ERS15409402_NODE_18_length_70845_cov_128.4_0	0	13179	+	No_PHROG	unknown function	head and packaging	1.5064	0.2305	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_1	13201	13330	+	No_PHROG	unknown function	lysis	1.3142	0.1891	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_2	13403	13568	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.4286	0.1562	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_3	13560	13692	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.5485	0.1936	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_4	13789	13978	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.8679	0.1839	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_5	13988	14093	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.0558	0.1659	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_6	14149	14920	+	130	transcription regulation	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_7	14916	15219	+	739	lysis	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_8	15200	15533	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.3265	0.2031	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_9	15536	15923	+	No_PHROG	unknown function	lysis	2.4562	0.2096	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_10	15927	16227	-	No_PHROG	unknown function	head and packaging	1.2001	0.1790	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_11	16192	18700	+	1775	head and packaging	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_12	18701	18905	+	No_PHROG	unknown function	head and packaging	1.3107	0.2055	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_13	19004	19601	-	799	other	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_14	19597	20629	-	26352	moron, auxiliary metabolic gene and host takeover	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_15	20630	21224	-	363	other	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_16	21240	21666	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	4.0558	0.2221	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_17	21665	21935	-	No_PHROG	unknown function	integration and excision	1.6957	0.1969	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_18	21995	22829	-	291	lysis	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_19	22841	24896	-	332	connector	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_20	24843	26526	-	2	head and packaging	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_21	26540	26771	-	9500	transcription regulation	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_22	26733	27270	-	No_PHROG	unknown function	head and packaging	9.4617	0.6530	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_23	27281	27470	-	No_PHROG	unknown function	lysis	1.3726	0.2041	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_24	27554	29060	-	62	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_25	29072	29312	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	8.5296	0.4860	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_26	29295	29646	-	93	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_27	29752	30469	-	85	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_28	30465	30933	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.5088	0.2953	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_29	30965	31472	-	7940	transcription regulation	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_30	31495	33559	-	1252	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_31	33539	33866	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.1524	0.2656	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_32	33937	34654	-	112	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_33	34700	35009	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.1754	0.3107	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_34	35017	36253	-	69	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_35	36294	38238	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.7087	0.4381	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_36	38230	38596	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.3015	0.4185	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_37	38612	39314	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	9.6772	0.7644	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_38	39315	41880	-	1156	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_39	41960	42209	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.0154	0.2512	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_40	42248	42671	-	No_PHROG	unknown function	transcription regulation	9.3130	0.5954	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_41	42654	43467	-	4191	other	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_42	43463	44153	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.2725	0.2683	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_43	44159	44948	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.0985	0.3447	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_44	44977	45685	-	No_PHROG	unknown function	integration and excision	1.4171	0.2480	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_45	45681	46395	-	No_PHROG	unknown function	integration and excision	1.0734	0.2644	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_46	46391	47168	-	No_PHROG	unknown function	integration and excision	1.0936	0.2326	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_47	47198	49130	-	16683	other	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_48	49104	49203	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.7007	0.2561	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_49	49265	49967	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	5.9431	0.2437	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_50	50038	50317	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	3.4995	0.1738	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_51	50326	50545	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.0241	0.1811	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_52	50661	50772	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.4634	0.2523	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_53	50889	51045	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.7094	0.2060	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_54	51098	51203	+	No_PHROG	unknown function	connector	1.1689	0.1543	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_55	51218	51356	+	No_PHROG	unknown function	head and packaging	1.1621	0.1453	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_56	51342	52473	-	No_PHROG	unknown function	head and packaging	2.5789	0.1635	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_57	52569	52920	+	No_PHROG	unknown function	head and packaging	4.6792	0.2303	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_58	52951	55042	+	31	tail	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_59	55080	55548	+	No_PHROG	unknown function	head and packaging	4.1010	0.1832	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_60	55554	56157	+	No_PHROG	unknown function	head and packaging	2.5788	0.1845	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_61	56193	56616	+	No_PHROG	unknown function	head and packaging	2.6220	0.1706	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_62	56684	56774	-	No_PHROG	unknown function	head and packaging	1.9932	0.1644	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_63	56760	58392	-	No_PHROG	unknown function	head and packaging	1.7169	0.1981	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_64	58392	59403	+	83020	unknown function	head and packaging	3.8782	0.2164	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_65	59459	59861	+	No_PHROG	unknown function	head and packaging	3.1391	0.1820	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_66	59969	60065	+	No_PHROG	unknown function	head and packaging	1.9344	0.1599	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_67	60373	61159	+	130	transcription regulation	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_68	61349	62036	+	399	head and packaging	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_69	62032	62659	+	437	head and packaging	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_70	62648	63191	+	No_PHROG	unknown function	head and packaging	4.2418	0.3054	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_71	63187	63691	+	No_PHROG	unknown function	head and packaging	4.7188	0.3062	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_72	63693	65460	+	511	head and packaging	NA	NA	NA	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_73	65476	65965	+	21390	unknown function	head and packaging	4.2331	0.2710	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_74	66006	66858	+	No_PHROG	unknown function	head and packaging	4.0121	0.3489	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_75	66859	67471	+	No_PHROG	unknown function	head and packaging	2.1648	0.1863	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_76	67474	69817	+	No_PHROG	unknown function	head and packaging	2.3652	0.2619	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_77	69813	70323	+	No_PHROG	unknown function	lysis	7.1757	0.3035	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS15409402_NODE_18_length_70845_cov_128.4_78	70322	70844	+	No_PHROG	unknown function	lysis	9.4635	0.6568	ERS15409402_NODE_18_length_70845_cov_128.4
+ERS26854148_NODE_1_length_74786_cov_128.6_0	0	14211	+	30335	unknown function	lysis	2.7006	0.2104	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_1	14323	15151	+	130	transcription regulation	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_2	15147	15450	+	739	lysis	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_3	15431	15764	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.4817	0.1525	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_4	15678	16152	+	No_PHROG	unknown function	lysis	2.7212	0.1745	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_5	16346	18929	+	23052	tail	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_6	18930	19134	+	No_PHROG	unknown function	head and packaging	1.5808	0.1682	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_7	19097	19304	+	No_PHROG	unknown function	head and packaging	1.0317	0.1594	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_8	19296	19452	+	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	4.8568	0.2744	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_9	19495	19642	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.6573	0.2336	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_10	19638	19752	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	6.1578	0.2330	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_11	19827	20859	-	26352	moron, auxiliary metabolic gene and host takeover	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_12	20860	21178	-	6802	other	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_13	21191	22046	-	363	other	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_14	22038	22440	-	130	transcription regulation	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_15	22464	22890	-	No_PHROG	unknown function	integration and excision	1.7155	0.1873	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_16	22889	23159	-	No_PHROG	unknown function	integration and excision	1.6658	0.1758	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_17	23219	24053	-	291	lysis	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_18	24065	26123	-	332	connector	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_19	26070	27753	-	2	head and packaging	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_20	27767	27998	-	9500	transcription regulation	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_21	27960	28497	-	No_PHROG	unknown function	head and packaging	9.7654	0.8197	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_22	28508	28697	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.0079	0.1835	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_23	28783	30280	-	62	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_24	30327	30567	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	5.4091	0.4805	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_25	30563	30902	-	93	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_26	30926	31025	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.7266	0.2835	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_27	31008	31725	-	85	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_28	31721	32189	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.9227	0.2641	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_29	32208	32988	-	130	transcription regulation	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_30	33027	35202	-	1252	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_31	35230	35407	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.6364	0.2993	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_32	35454	36171	-	112	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_33	36227	36548	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.5327	0.2972	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_34	36544	37780	-	69	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_35	37830	39747	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.1088	0.3471	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_36	39724	40105	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.0018	0.3575	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_37	40121	40817	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.4347	0.4089	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_38	40818	43359	-	1156	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_39	43463	43757	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.5267	0.2879	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_40	43728	44118	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	5.4618	0.2815	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_41	44110	44518	-	No_PHROG	unknown function	transcription regulation	9.5844	0.7139	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_42	44501	45293	-	4191	other	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_43	45289	46006	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.8413	0.2747	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_44	46012	47041	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.8077	0.3561	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_45	46856	47570	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.9182	0.3602	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_46	47566	48346	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	5.8321	0.2679	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_47	48361	50323	-	16683	other	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_48	50319	50409	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	5.1442	0.2370	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_49	50491	51196	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	5.9528	0.2804	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_50	51335	52157	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	3.6180	0.2248	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_51	52237	52420	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	9.4396	0.6535	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_52	52451	52943	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	4.8107	0.2466	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_53	53015	53771	-	48093	unknown function	DNA, RNA and nucleotide metabolism	4.7782	0.2566	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_54	53923	54082	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	3.9030	0.1902	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_55	54152	54320	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.9385	0.2407	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_56	54328	54448	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.1427	0.2577	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_57	54523	54619	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	7.2890	0.3777	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_58	54593	54686	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	9.8099	0.8479	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_59	54820	54922	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	6.9570	0.3796	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_60	54931	55717	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.4854	0.2615	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_61	55862	56060	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	2.9378	0.3408	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_62	56153	56498	+	No_PHROG	unknown function	head and packaging	3.3371	0.2103	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_63	56529	58620	+	31	tail	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_64	58660	59128	+	No_PHROG	unknown function	head and packaging	1.6238	0.1821	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_65	59134	59731	+	No_PHROG	unknown function	head and packaging	1.6420	0.1644	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_66	59744	60179	+	No_PHROG	unknown function	head and packaging	2.4631	0.1632	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_67	60194	60788	+	No_PHROG	unknown function	head and packaging	7.0128	0.2930	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_68	60834	61908	+	267	head and packaging	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_69	61932	63369	-	No_PHROG	unknown function	head and packaging	2.1729	0.1839	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_70	63425	63542	-	No_PHROG	unknown function	other	5.1936	0.1991	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_71	63519	63711	+	130	transcription regulation	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_72	63714	64263	+	130	transcription regulation	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_73	64334	64433	+	No_PHROG	unknown function	lysis	1.4103	0.1908	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_74	64404	65178	+	130	transcription regulation	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_75	65206	65308	+	No_PHROG	unknown function	head and packaging	3.3928	0.2424	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_76	65286	65973	+	399	head and packaging	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_77	65969	66596	+	437	head and packaging	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_78	66585	67128	+	No_PHROG	unknown function	head and packaging	4.3802	0.2781	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_79	67124	67628	+	No_PHROG	unknown function	head and packaging	5.3156	0.2821	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_80	67630	69397	+	511	head and packaging	NA	NA	NA	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_81	69413	69902	+	21390	unknown function	head and packaging	3.7754	0.2521	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_82	69986	70793	+	No_PHROG	unknown function	head and packaging	3.0765	0.3171	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_83	70794	71406	+	No_PHROG	unknown function	head and packaging	1.0909	0.2115	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_84	71409	73758	+	No_PHROG	unknown function	head and packaging	1.4277	0.2817	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_85	73754	74264	+	No_PHROG	unknown function	lysis	3.5987	0.2321	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS26854148_NODE_1_length_74786_cov_128.6_86	74263	74785	+	No_PHROG	unknown function	lysis	9.0290	0.5085	ERS26854148_NODE_1_length_74786_cov_128.6
+ERS3395766_NODE_44_length_76109_cov_26.283207_0	0	14208	+	30335	unknown function	moron, auxiliary metabolic gene and host takeover	6.2979	0.2127	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_1	14211	14328	+	No_PHROG	unknown function	lysis	2.9737	0.1970	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_2	14320	14593	+	130	transcription regulation	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_3	14643	15366	+	130	transcription regulation	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_4	15450	16212	+	130	transcription regulation	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_5	16208	16511	+	No_PHROG	unknown function	lysis	3.5962	0.2396	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_6	16492	16825	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.8276	0.1520	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_7	16828	17215	+	No_PHROG	unknown function	lysis	3.3924	0.1912	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_8	17409	19995	+	1330	tail	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_9	19996	20200	+	No_PHROG	unknown function	head and packaging	1.2866	0.1973	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_10	20300	20888	-	799	other	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_11	20893	21925	-	26352	moron, auxiliary metabolic gene and host takeover	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_12	21944	22079	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	3.7595	0.1878	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_13	22095	22245	-	No_PHROG	unknown function	other	9.3502	0.6103	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_14	22237	22630	-	130	transcription regulation	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_15	22635	23061	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	3.3862	0.2035	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_16	23060	23330	-	No_PHROG	unknown function	integration and excision	1.1195	0.1752	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_17	23390	24224	-	291	lysis	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_18	24236	26294	-	332	connector	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_19	26241	27924	-	2	head and packaging	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_20	27938	28169	-	9500	transcription regulation	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_21	28131	28668	-	No_PHROG	unknown function	head and packaging	9.4257	0.6421	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_22	28679	28868	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	2.0907	0.2111	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_23	28954	30457	-	62	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_24	30495	30735	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	5.9383	0.4863	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_25	30731	31070	-	93	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_26	31176	31893	-	85	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_27	31889	32357	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.9441	0.3143	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_28	32376	33156	-	130	transcription regulation	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_29	33179	35381	-	1252	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_30	35436	35586	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.6424	0.2367	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_31	35633	36338	-	112	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_32	36422	36722	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.1704	0.3536	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_33	36730	37966	-	69	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_34	37989	39921	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.6628	0.4289	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_35	39898	40327	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.5888	0.4196	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_36	40295	41006	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.9605	0.4917	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_37	41007	43554	-	1156	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_38	43658	43907	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.2136	0.3598	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_39	43920	44310	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.6042	0.3070	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_40	44302	44710	-	No_PHROG	unknown function	transcription regulation	9.5832	0.7129	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_41	44693	45485	-	4191	other	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_42	45481	46183	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.3438	0.3013	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_43	46189	46978	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.8016	0.3193	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_44	47033	47747	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.1367	0.3769	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_45	47743	48523	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	5.6435	0.2469	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_46	48538	50467	-	16683	other	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_47	50628	51333	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.4441	0.3196	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_48	51500	51626	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	5.4131	0.3128	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_49	51655	52477	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	5.0601	0.2189	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_50	52498	53110	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	3.9399	0.2400	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_51	53130	53400	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.5221	0.2887	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_52	53396	53828	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	5.8886	0.2740	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_53	53844	54279	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.8661	0.3083	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_54	54364	54913	-	48093	unknown function	DNA, RNA and nucleotide metabolism	6.2087	0.2971	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_55	54914	55127	+	No_PHROG	unknown function	head and packaging	1.1395	0.1502	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_56	55128	55251	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.5914	0.1563	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_57	55270	55366	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.2340	0.1776	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_58	55437	55548	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	3.7820	0.2041	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_59	55665	55851	+	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	8.1885	0.3605	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_60	55885	56113	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.3090	0.2503	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_61	56082	56214	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.2720	0.1618	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_62	56200	56959	-	No_PHROG	unknown function	head and packaging	1.9844	0.1859	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_63	57082	57196	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.8480	0.1749	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_64	57268	57382	-	No_PHROG	unknown function	connector	1.4768	0.1321	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_65	57445	57820	+	No_PHROG	unknown function	connector	1.0369	0.2824	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_66	57851	59942	+	31	tail	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_67	59968	60436	+	No_PHROG	unknown function	head and packaging	2.5779	0.2049	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_68	60442	61039	+	No_PHROG	unknown function	head and packaging	2.4347	0.1722	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_69	61052	61481	+	No_PHROG	unknown function	connector	1.0877	0.1708	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_70	61496	62093	+	No_PHROG	unknown function	head and packaging	8.7781	0.4508	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_71	62145	63213	+	267	head and packaging	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_72	63225	64233	+	No_PHROG	unknown function	head and packaging	5.4318	0.2306	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_73	64287	64689	+	No_PHROG	unknown function	head and packaging	2.9818	0.1890	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_74	64718	64865	+	No_PHROG	unknown function	head and packaging	1.2427	0.1946	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_75	64824	65145	+	130	transcription regulation	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_76	65148	65580	+	130	transcription regulation	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_77	65608	65710	+	No_PHROG	unknown function	head and packaging	5.0618	0.2439	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_78	65688	66375	+	399	head and packaging	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_79	66371	66998	+	437	head and packaging	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_80	66987	67530	+	No_PHROG	unknown function	head and packaging	5.5871	0.3431	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_81	67526	68030	+	No_PHROG	unknown function	head and packaging	5.9457	0.3378	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_82	68032	69799	+	511	head and packaging	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_83	69819	70308	+	21390	unknown function	head and packaging	4.3771	0.2147	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_84	70325	71075	+	2657	transcription regulation	NA	NA	NA	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_85	71167	71974	+	No_PHROG	unknown function	head and packaging	3.0956	0.2761	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_86	71975	72587	+	No_PHROG	unknown function	head and packaging	1.7709	0.2057	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_87	72590	74882	+	No_PHROG	unknown function	head and packaging	3.5755	0.2653	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_88	74898	75081	+	No_PHROG	unknown function	head and packaging	1.1957	0.2158	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_89	75077	75587	+	No_PHROG	unknown function	lysis	4.1385	0.2742	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3395766_NODE_44_length_76109_cov_26.283207_90	75586	76108	+	No_PHROG	unknown function	lysis	9.2494	0.5746	ERS3395766_NODE_44_length_76109_cov_26.283207
+ERS3774444_NODE_3_length_74272_cov_84.8_0	0	14271	+	30335	unknown function	head and packaging	1.1683	0.2067	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_1	14274	14391	+	No_PHROG	unknown function	lysis	2.5980	0.2033	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_2	14383	15151	+	130	transcription regulation	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_3	15134	15233	+	No_PHROG	unknown function	lysis	2.3676	0.2116	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_4	15225	15978	+	130	transcription regulation	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_5	15974	16277	+	739	lysis	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_6	16258	16591	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.2550	0.1544	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_7	16594	16981	+	No_PHROG	unknown function	lysis	2.8568	0.1790	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_8	17011	17143	-	No_PHROG	unknown function	head and packaging	1.0604	0.1525	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_9	17203	17293	-	No_PHROG	unknown function	lysis	1.2066	0.1821	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_10	17283	19761	+	4492	tail	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_11	19762	19966	+	No_PHROG	unknown function	head and packaging	1.3287	0.2134	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_12	20065	20662	-	799	other	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_13	20658	21690	-	26352	moron, auxiliary metabolic gene and host takeover	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_14	21691	21901	-	130	transcription regulation	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_15	21959	22388	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	4.3304	0.2135	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_16	22384	22654	-	No_PHROG	unknown function	head and packaging	1.1049	0.1801	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_17	22714	23542	-	291	lysis	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_18	23553	25608	-	332	connector	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_19	25555	27238	-	2	head and packaging	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_20	27252	27483	-	9500	transcription regulation	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_21	27445	27982	-	No_PHROG	unknown function	head and packaging	9.7469	0.8074	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_22	27993	28104	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.5148	0.1520	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_23	28088	28262	-	No_PHROG	unknown function	lysis	3.2869	0.1893	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_24	28268	29765	-	62	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_25	29797	30037	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	5.7495	0.4125	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_26	30020	30371	-	93	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_27	30477	31572	-	85	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_28	31680	31881	-	2977	transcription regulation	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_29	31988	34190	-	1252	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_30	34183	34285	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.1631	0.2500	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_31	34441	35155	-	112	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_32	35228	35525	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	5.7910	0.2765	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_33	35539	36775	-	69	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_34	36803	38741	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.5172	0.4044	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_35	38718	39099	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	5.5655	0.4152	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_36	39116	39851	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	9.1630	0.5460	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_37	39852	42375	-	1156	DNA, RNA and nucleotide metabolism	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_38	42479	42728	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.6240	0.2962	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_39	42789	43230	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.6829	0.2713	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_40	43159	43582	-	No_PHROG	unknown function	transcription regulation	9.5758	0.7087	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_41	43565	44426	-	4191	other	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_42	44422	45121	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.7455	0.2619	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_43	45127	45916	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.7057	0.3313	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_44	45974	46673	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.6647	0.3207	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_45	46678	47392	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.1560	0.3116	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_46	47388	48165	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.4027	0.3246	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_47	48197	50147	-	16683	other	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_48	50299	51007	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	5.6960	0.2636	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_49	51104	51908	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	3.7716	0.2548	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_50	51920	52166	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	7.8820	0.3392	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_51	52168	52621	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	4.5025	0.2819	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_52	52710	53385	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.7818	0.2929	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_53	53441	53858	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.0143	0.2455	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_54	53960	54725	-	48093	unknown function	DNA, RNA and nucleotide metabolism	2.4377	0.2654	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_55	54752	54899	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.7955	0.2652	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_56	55005	55104	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	8.7562	0.4473	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_57	55231	55321	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.0471	0.2189	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_58	55305	55632	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.4342	0.2311	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_59	55637	55769	+	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	2.2419	0.4493	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_60	55929	56274	+	No_PHROG	unknown function	head and packaging	4.2584	0.1941	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_61	56305	58396	+	2148	tail	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_62	58434	58902	+	No_PHROG	unknown function	head and packaging	4.8409	0.2015	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_63	58898	59495	+	No_PHROG	unknown function	head and packaging	2.7185	0.1734	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_64	59534	59957	+	No_PHROG	unknown function	head and packaging	4.1371	0.1651	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_65	59984	60581	+	No_PHROG	unknown function	head and packaging	9.0036	0.5019	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_66	60628	61702	+	267	head and packaging	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_67	61731	62736	+	No_PHROG	unknown function	head and packaging	6.0122	0.2426	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_68	62796	63198	+	No_PHROG	unknown function	head and packaging	3.8867	0.1815	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_69	63293	64073	+	130	transcription regulation	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_70	64298	64400	+	No_PHROG	unknown function	head and packaging	3.3315	0.1976	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_71	64366	65053	+	399	head and packaging	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_72	65049	65676	+	437	head and packaging	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_73	65665	66208	+	No_PHROG	unknown function	head and packaging	4.5002	0.3048	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_74	66204	66708	+	No_PHROG	unknown function	head and packaging	5.7290	0.2996	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_75	66710	68477	+	511	head and packaging	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_76	68498	68987	+	No_PHROG	unknown function	head and packaging	3.1088	0.1769	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_77	69003	69399	+	129	transcription regulation	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_78	69457	70264	+	No_PHROG	unknown function	head and packaging	4.5272	0.3092	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_79	70265	70877	+	No_PHROG	unknown function	head and packaging	2.0779	0.1928	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_80	70880	73244	+	1216	head and packaging	NA	NA	NA	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_81	73240	73750	+	No_PHROG	unknown function	lysis	6.9397	0.3086	ERS3774444_NODE_3_length_74272_cov_84.8
+ERS3774444_NODE_3_length_74272_cov_84.8_82	73749	74271	+	No_PHROG	unknown function	head and packaging	1.0910	0.4073	ERS3774444_NODE_3_length_74272_cov_84.8
+SRS11653574_NODE_1_length_73277_cov_192.2_0	0	14217	+	30335	unknown function	moron, auxiliary metabolic gene and host takeover	6.8129	0.2388	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_1	14220	14613	+	130	transcription regulation	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_2	14673	15438	+	130	transcription regulation	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_3	15434	15737	+	739	lysis	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_4	15718	16051	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.9821	0.1616	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_5	16054	16441	+	No_PHROG	unknown function	lysis	3.4768	0.1841	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_6	16471	16636	-	No_PHROG	unknown function	head and packaging	1.5680	0.1762	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_7	16710	19218	+	1330	tail	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_8	19219	19423	+	No_PHROG	unknown function	head and packaging	2.0686	0.2163	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_9	19522	20560	-	26352	moron, auxiliary metabolic gene and host takeover	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_10	20576	21428	-	363	other	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_11	21433	22255	-	130	transcription regulation	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_12	22287	23055	-	130	transcription regulation	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_13	23088	23526	-	No_PHROG	unknown function	head and packaging	1.1340	0.1862	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_14	23525	23795	-	No_PHROG	unknown function	integration and excision	1.2376	0.1616	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_15	23855	24695	-	291	lysis	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_16	24707	26765	-	332	connector	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_17	26712	28395	-	2	head and packaging	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_18	28409	28640	-	9500	transcription regulation	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_19	28602	29139	-	No_PHROG	unknown function	head and packaging	9.5639	0.7038	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_20	29150	29339	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.1625	0.1796	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_21	29425	30928	-	62	DNA, RNA and nucleotide metabolism	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_22	30958	31198	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	6.9412	0.4820	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_23	31194	31533	-	93	DNA, RNA and nucleotide metabolism	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_24	31639	32356	-	85	DNA, RNA and nucleotide metabolism	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_25	32352	32820	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	5.7840	0.2917	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_26	32854	33637	-	130	transcription regulation	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_27	33676	35848	-	1252	DNA, RNA and nucleotide metabolism	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_28	35879	36056	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.2451	0.3036	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_29	36103	36820	-	112	DNA, RNA and nucleotide metabolism	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_30	36885	37185	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.8933	0.3067	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_31	37193	38429	-	69	DNA, RNA and nucleotide metabolism	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_32	38479	40450	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.2948	0.3709	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_33	40446	40860	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.4339	0.3945	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_34	40828	41533	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	9.3928	0.6286	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_35	41534	44054	-	1156	DNA, RNA and nucleotide metabolism	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_36	44158	44407	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.9129	0.2860	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_37	44446	44827	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	4.6366	0.3086	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_38	44819	45221	-	No_PHROG	unknown function	transcription regulation	9.4090	0.6344	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_39	45204	45996	-	4191	other	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_40	45992	46718	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	4.8534	0.2982	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_41	46714	47449	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.6961	0.2552	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_42	47445	48162	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.4004	0.2836	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_43	48161	48938	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.0003	0.3124	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_44	48960	50880	-	16683	other	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_45	50860	50974	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	5.9431	0.3844	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_46	51037	51739	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	5.3223	0.3025	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_47	51801	51897	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	4.1765	0.2465	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_48	51928	52573	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.2097	0.2727	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_49	52626	53046	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	5.9107	0.2718	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_50	53137	53992	-	99043	unknown function	DNA, RNA and nucleotide metabolism	1.6821	0.2826	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_51	54112	54412	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	9.8312	0.8717	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_52	54575	54920	+	No_PHROG	unknown function	head and packaging	2.5704	0.2047	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_53	54951	57042	+	31	tail	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_54	57071	57539	+	No_PHROG	unknown function	head and packaging	1.5912	0.1946	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_55	57545	58148	+	No_PHROG	unknown function	head and packaging	1.0998	0.1798	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_56	58163	58592	+	No_PHROG	unknown function	head and packaging	1.7946	0.1832	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_57	58607	59204	+	No_PHROG	unknown function	head and packaging	6.9919	0.3218	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_58	59250	60324	+	267	head and packaging	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_59	60336	61341	+	No_PHROG	unknown function	head and packaging	4.1717	0.2041	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_60	61398	61800	+	No_PHROG	unknown function	head and packaging	2.0095	0.1882	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_61	61935	62679	+	130	transcription regulation	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_62	62718	63525	+	130	transcription regulation	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_63	63525	63693	+	No_PHROG	unknown function	head and packaging	3.6052	0.2013	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_64	63671	64358	+	399	head and packaging	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_65	64354	64981	+	437	head and packaging	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_66	64970	65513	+	No_PHROG	unknown function	head and packaging	3.5581	0.2283	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_67	65509	66013	+	No_PHROG	unknown function	head and packaging	4.4137	0.2169	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_68	66015	67782	+	511	head and packaging	NA	NA	NA	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_69	67802	68291	+	21390	unknown function	head and packaging	2.7556	0.1565	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_70	68306	68444	+	No_PHROG	unknown function	head and packaging	2.2976	0.1732	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_71	68489	69296	+	No_PHROG	unknown function	head and packaging	3.3796	0.2220	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_72	69297	69909	+	No_PHROG	unknown function	head and packaging	1.1059	0.1849	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_73	69912	72249	+	No_PHROG	unknown function	head and packaging	2.4713	0.2653	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_74	72245	72755	+	No_PHROG	unknown function	lysis	4.4317	0.2519	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS11653574_NODE_1_length_73277_cov_192.2_75	72754	73276	+	No_PHROG	unknown function	head and packaging	1.9008	0.3084	SRS11653574_NODE_1_length_73277_cov_192.2
+SRS15300801_NODE_39_length_72738_cov_1583.9_0	0	13164	+	13543	moron, auxiliary metabolic gene and host takeover	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_1	13167	13284	+	No_PHROG	unknown function	lysis	2.1401	0.2029	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_2	13276	13567	+	130	transcription regulation	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_3	13617	14385	+	130	transcription regulation	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_4	14381	14684	+	739	lysis	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_5	14665	14998	+	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.0120	0.1514	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_6	15001	15388	+	No_PHROG	unknown function	lysis	2.0109	0.1515	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_7	15392	15608	-	No_PHROG	unknown function	head and packaging	1.5309	0.1979	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_8	15645	18147	+	19519	connector	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_9	18148	18352	+	No_PHROG	unknown function	head and packaging	2.4702	0.1876	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_10	18461	18779	-	6802	other	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_11	18821	19463	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.2240	0.1721	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_12	19662	20421	-	130	transcription regulation	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_13	20417	20819	-	130	transcription regulation	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_14	20843	21269	-	No_PHROG	unknown function	integration and excision	1.4343	0.1659	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_15	21268	21538	-	No_PHROG	unknown function	head and packaging	1.5551	0.1689	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_16	21599	22433	-	291	lysis	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_17	22445	24500	-	332	connector	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_18	24447	26130	-	2	head and packaging	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_19	26144	26375	-	9500	transcription regulation	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_20	26337	26874	-	No_PHROG	unknown function	head and packaging	9.8152	0.8546	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_21	26885	27074	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.1913	0.1915	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_22	27158	28679	-	62	DNA, RNA and nucleotide metabolism	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_23	28709	28949	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	3.9948	0.4768	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_24	28945	29272	-	93	DNA, RNA and nucleotide metabolism	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_25	29232	29391	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	4.4779	0.2809	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_26	29390	30107	-	85	DNA, RNA and nucleotide metabolism	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_27	30103	30571	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.5470	0.3102	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_28	30603	31368	-	130	transcription regulation	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_29	31391	33455	-	1252	DNA, RNA and nucleotide metabolism	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_30	33451	33775	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.1341	0.3038	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_31	33844	34561	-	112	DNA, RNA and nucleotide metabolism	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_32	34631	34949	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.8467	0.3255	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_33	34945	36181	-	69	DNA, RNA and nucleotide metabolism	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_34	36218	38162	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	9.2014	0.5581	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_35	38158	38512	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.7800	0.4502	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_36	38612	38738	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	5.3320	0.2560	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_37	38777	38882	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	5.5821	0.2818	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_38	38860	38995	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.7088	0.2832	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_39	39022	39748	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	8.5348	0.4080	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_40	39749	42269	-	1156	DNA, RNA and nucleotide metabolism	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_41	42373	42622	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.3317	0.2671	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_42	42666	43068	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.1717	0.2894	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_43	43060	43468	-	No_PHROG	unknown function	transcription regulation	9.6535	0.7497	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_44	43451	44243	-	4191	other	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_45	44239	44935	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.1044	0.2690	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_46	44941	45781	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	7.0852	0.3224	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_47	45774	46488	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.7771	0.3020	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_48	46484	47264	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	5.0222	0.2631	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_49	47279	49235	-	16683	other	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_50	49206	49320	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	3.8343	0.2749	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_51	49388	50096	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	6.6493	0.2869	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_52	50209	51016	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	4.9617	0.2385	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_53	51058	51265	-	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	8.9558	0.4915	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_54	51347	51815	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	4.0245	0.2429	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_55	51891	52653	-	48093	unknown function	DNA, RNA and nucleotide metabolism	3.3894	0.2470	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_56	52639	52735	+	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	7.9092	0.3830	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_57	52871	53051	+	No_PHROG	unknown function	moron, auxiliary metabolic gene and host takeover	5.0748	0.3936	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_58	53242	53344	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	1.8815	0.2272	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_59	53336	53465	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.0990	0.2195	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_60	53493	54207	-	No_PHROG	unknown function	DNA, RNA and nucleotide metabolism	2.5246	0.3246	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_61	54300	54645	+	No_PHROG	unknown function	head and packaging	4.7315	0.2207	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_62	54676	56767	+	31	tail	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_63	56807	57275	+	No_PHROG	unknown function	head and packaging	2.4137	0.1907	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_64	57281	57884	+	No_PHROG	unknown function	head and packaging	2.3286	0.1685	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_65	57893	58334	+	No_PHROG	unknown function	head and packaging	3.3792	0.1681	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_66	58349	58952	+	No_PHROG	unknown function	head and packaging	8.4396	0.3915	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_67	58998	60072	+	267	head and packaging	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_68	60084	61089	+	No_PHROG	unknown function	head and packaging	4.8603	0.2075	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_69	61146	61542	+	No_PHROG	unknown function	head and packaging	3.1443	0.1691	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_70	61650	61746	+	No_PHROG	unknown function	head and packaging	1.4671	0.1684	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_71	61852	62002	+	No_PHROG	unknown function	transcription regulation	9.8549	0.8908	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_72	62025	62892	+	130	transcription regulation	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_73	62956	63076	+	No_PHROG	unknown function	head and packaging	4.2688	0.2138	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_74	63054	63741	+	399	head and packaging	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_75	63737	64364	+	437	head and packaging	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_76	64353	64896	+	No_PHROG	unknown function	head and packaging	4.9218	0.2756	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_77	64892	65396	+	No_PHROG	unknown function	head and packaging	6.5500	0.2833	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_78	65398	67165	+	511	head and packaging	NA	NA	NA	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_79	67185	67674	+	21390	unknown function	head and packaging	3.8546	0.1844	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_80	67691	67880	+	No_PHROG	unknown function	head and packaging	2.7529	0.1907	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_81	67935	68745	+	No_PHROG	unknown function	head and packaging	3.6988	0.2599	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_82	68746	69358	+	No_PHROG	unknown function	head and packaging	1.5936	0.2022	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_83	69361	71710	+	16017	unknown function	head and packaging	2.2597	0.2826	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_84	71706	72216	+	No_PHROG	unknown function	lysis	4.8002	0.2309	SRS15300801_NODE_39_length_72738_cov_1583.9
+SRS15300801_NODE_39_length_72738_cov_1583.9_85	72215	72737	+	No_PHROG	unknown function	lysis	9.3044	0.5912	SRS15300801_NODE_39_length_72738_cov_1583.9

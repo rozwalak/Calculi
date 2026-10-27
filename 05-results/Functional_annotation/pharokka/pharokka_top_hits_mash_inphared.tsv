@@ -1,0 +1,10 @@
+contig	Accession	mash_distance	mash_pval	mash_matching_hashes	Description	Classification	Genome_Length_(bp)	Jumbophage	molGC_(%)	Molecule	Modification_Date	Number_CDS	Positive_Strand_(%)	Negative_Strand_(%)	Coding_Capacity_(%)	Low_Coding_Capacity_Warning	tRNAs	Host	Lowest_Taxa	Genus	Sub-family	Family	Order	Class	Phylum	Kingdom	Realm	Baltimore_Group	Genbank_Division	Isolation_Host_(beware_inconsistent_and_nonsense_values)
+ERS11702752_NODE_1_length_73747_cov_71.8	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+ERS11702779_NODE_6_length_75301_cov_34.8	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+ERS15409398_NODE_13_length_70913_cov_527.1	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+ERS15409402_NODE_18_length_70845_cov_128.4	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+ERS26854148_NODE_1_length_74786_cov_128.6	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+ERS3395766_NODE_44_length_76109_cov_26.283207	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+ERS3774444_NODE_3_length_74272_cov_84.8	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+SRS11653574_NODE_1_length_73277_cov_192.2	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										
+SRS15300801_NODE_39_length_72738_cov_1583.9	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit	no_inphared_mash_hit																										

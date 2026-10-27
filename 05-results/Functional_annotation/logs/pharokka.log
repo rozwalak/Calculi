@@ -1,0 +1,69 @@
+
+===== 2026-10-22T21:25:14+00:00 :: pharokka :: pharokka run -i /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/input/canonical.fasta -o /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/pharokka -d /data/db/pharokka -t 5 -p pharokka -g phanotate -f --fast --meta =====
+2026-10-22 21:25:15.954 | INFO     | pharokka.input_commands:instantiate_dirs:213 - Removing output directory /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/pharokka as -f or --force was specified.
+2026-10-22 21:25:15.958 | INFO     | pharokka.run:main:123 - Starting Pharokka v1.10.1
+2026-10-22 21:25:15.958 | INFO     | pharokka.run:main:124 - Command executed: Namespace(infile='/data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/input/canonical.fasta', outdir='/data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/pharokka', database='/data/db/pharokka', threads=5, force=True, prefix='pharokka', locustag='Default', gene_predictor='phanotate', meta=True, split=False, coding_table='11', evalue='1E-05', fast=True, mmseqs2_only=False, meta_hmm=False, dnaapler=False, custom_hmm='', genbank=False, terminase=False, terminase_strand='nothing', terminase_start='nothing', skip_extra_annotations=False, skip_mash=False, minced_args='', mash_distance=0.2, trna_scan_model='general', keep_raw_prodigal=False, reverse_mmseqs2=False, sensitivity=8.5, citation=False)
+2026-10-22 21:25:15.958 | INFO     | pharokka.run:main:125 - Repository homepage is https://github.com/gbouras13/pharokka
+2026-10-22 21:25:15.958 | INFO     | pharokka.run:main:126 - Written by George Bouras: george.bouras@adelaide.edu.au
+2026-10-22 21:25:15.958 | INFO     | pharokka.run:main:128 - Checking database installation in /data/db/pharokka.
+2026-10-22 21:25:15.959 | INFO     | pharokka.run:main:131 - All databases have been successfully checked.
+2026-10-22 21:25:15.959 | INFO     | pharokka.run:main:147 - Checking dependencies.
+2026-10-22 21:25:16.030 | INFO     | pharokka.input_commands:check_dependencies:441 - Phanotate version found is v1.6.7
+2026-10-22 21:25:16.030 | INFO     | pharokka.input_commands:check_dependencies:450 - Phanotate version is ok.
+2026-10-22 21:25:16.034 | INFO     | pharokka.input_commands:check_dependencies:506 - MMseqs2 version found is v18.8cc5c
+2026-10-22 21:25:16.034 | INFO     | pharokka.input_commands:check_dependencies:509 - MMseqs2 version is ok.
+2026-10-22 21:25:16.097 | INFO     | pharokka.input_commands:check_dependencies:532 - tRNAscan-SE version found is v2.0.13
+2026-10-22 21:25:16.097 | INFO     | pharokka.input_commands:check_dependencies:543 - tRNAscan-SE version is ok.
+2026-10-22 21:25:16.159 | INFO     | pharokka.input_commands:check_dependencies:566 - MinCED version found is v0.4.2
+2026-10-22 21:25:16.159 | INFO     | pharokka.input_commands:check_dependencies:577 - MinCED version is ok.
+2026-10-22 21:25:16.160 | INFO     | pharokka.input_commands:check_dependencies:601 - ARAGORN version found is v1.2.41
+2026-10-22 21:25:16.160 | INFO     | pharokka.input_commands:check_dependencies:612 - ARAGORN version is ok.
+2026-10-22 21:25:16.164 | INFO     | pharokka.input_commands:check_dependencies:629 - mash version found is v2.3
+2026-10-22 21:25:16.164 | INFO     | pharokka.input_commands:check_dependencies:636 - mash version is ok.
+2026-10-22 21:25:16.694 | INFO     | pharokka.input_commands:check_dependencies:654 - Dnaapler version found is v1.4.0
+2026-10-22 21:25:16.694 | INFO     | pharokka.input_commands:check_dependencies:663 - Dnaapler version is ok.
+2026-10-22 21:25:16.694 | INFO     | pharokka.input_commands:check_dependencies:674 - Pyrodigal version is v3.7.1
+2026-10-22 21:25:16.694 | INFO     | pharokka.input_commands:check_dependencies:675 - Pyrodigal version is ok.
+2026-10-22 21:25:16.694 | INFO     | pharokka.input_commands:check_dependencies:686 - Pyrodigal_gv version is v0.3.2
+2026-10-22 21:25:16.694 | INFO     | pharokka.input_commands:check_dependencies:687 - Pyrodigal_gv version is ok.
+2026-10-22 21:25:16.694 | INFO     | pharokka.input_commands:check_dependencies:698 - Pyrodigal_rv version is v0.1.0
+2026-10-22 21:25:16.694 | INFO     | pharokka.input_commands:check_dependencies:699 - Pyrodigal_rv version is ok.
+2026-10-22 21:25:16.694 | INFO     | pharokka.input_commands:validate_fasta:266 - Checking input /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/input/canonical.fasta.
+2026-10-22 21:25:16.695 | INFO     | pharokka.input_commands:validate_fasta:292 - Input /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/input/canonical.fasta is in FASTA format.
+2026-10-22 21:25:16.695 | INFO     | pharokka.input_commands:validate_fasta:293 - All headers in /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/input/canonical.fasta are unique.
+2026-10-22 21:25:16.695 | INFO     | pharokka.input_commands:validate_gene_predictor:319 - Phanotate will be used for gene prediction.
+2026-10-22 21:25:16.695 | INFO     | pharokka.run:main:284 - You have specified --fast or --hmm_only. MMseqs2 will not be run.
+2026-10-22 21:25:16.695 | WARNING  | pharokka.run:main:286 - You have specified --fast with -m/--meta. This may be take a while, please be patient.
+2026-10-22 21:25:16.696 | INFO     | pharokka.input_commands:validate_meta:351 - 9 input contigs detected.
+2026-10-22 21:25:16.700 | INFO     | pharokka.run:main:309 - Running Phanotate.
+2026-10-22 21:25:16.700 | INFO     | pharokka.run:main:311 - Applying meta mode.
+2026-10-22 21:26:42.367 | INFO     | pharokka.run:main:338 - Starting tRNA-scanSE. Applying meta mode.
+2026-10-22 21:26:42.703 | INFO     | pharokka.processes:run_minced:832 - Running MinCED.
+2026-10-22 21:26:42.703 | INFO     | pharokka.external_tools:run:47 - Started running minced /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/input/canonical.fasta /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/pharokka/pharokka_minced_spacers.txt /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/pharokka/pharokka_minced.gff ...
+2026-10-22 21:26:42.872 | INFO     | pharokka.external_tools:run:49 - Done running minced /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/input/canonical.fasta /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/pharokka/pharokka_minced_spacers.txt /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/pharokka/pharokka_minced.gff
+2026-10-22 21:26:42.872 | INFO     | pharokka.processes:run_aragorn:864 - Running Aragorn.
+2026-10-22 21:26:42.872 | INFO     | pharokka.external_tools:run:47 - Started running aragorn -l -gcbact -w -m -o /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/pharokka/pharokka_aragorn.txt /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/input/canonical.fasta ...
+2026-10-22 21:26:43.029 | INFO     | pharokka.external_tools:run:49 - Done running aragorn -l -gcbact -w -m -o /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/pharokka/pharokka_aragorn.txt /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/input/canonical.fasta
+2026-10-22 21:26:43.029 | INFO     | pharokka.run:main:391 - Running PyHMMER on PHROGs.
+2026-10-22 21:27:24.322 | INFO     | pharokka.run:main:407 - Post Processing Output.
+2026-10-22 21:27:24.354 | INFO     | pharokka.post_processing:process_vfdb_results:2595 - Processing VFDB output.
+2026-10-22 21:27:24.357 | INFO     | pharokka.post_processing:process_vfdb_results:2792 - 0 VFDB virulence factors identified.
+2026-10-22 21:27:24.357 | INFO     | pharokka.post_processing:process_card_results:2815 - Processing CARD output.
+2026-10-22 21:27:24.359 | INFO     | pharokka.post_processing:process_card_results:3003 - 0 CARD AMR genes identified.
+2026-10-22 21:27:24.444 | INFO     | pharokka.run:main:480 - Converting gff to genbank.
+2026-10-22 21:27:24.508 | INFO     | pharokka.post_processing:extract_terl:2086 - Terminase large subunit found.
+2026-10-22 21:27:24.508 | INFO     | pharokka.post_processing:extract_terl:2088 - More than one CDS annotated as terminase large subunit found. 
+Saving all.
+2026-10-22 21:27:24.512 | INFO     | pharokka.run:main:498 - Finding the closest match for each contig in INPHARED using mash.
+2026-10-22 21:27:24.513 | INFO     | pharokka.external_tools:run:47 - Started running mash sketch /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/input/canonical.fasta -o /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/pharokka/input_mash_sketch.msh -i ...
+2026-10-22 21:27:24.536 | INFO     | pharokka.external_tools:run:49 - Done running mash sketch /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/input/canonical.fasta -o /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/pharokka/input_mash_sketch.msh -i
+2026-10-22 21:27:24.537 | INFO     | pharokka.external_tools:run_to_stdout:54 - Started running mash dist /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/pharokka/input_mash_sketch.msh /data/db/pharokka/9Aug2025_genomes.fa.msh -d 0.2 -i ...
+2026-10-22 21:27:28.460 | INFO     | pharokka.external_tools:run_to_stdout:56 - Done running mash dist /data/jobs/6fb86aa02bf243f9bd33f331ed58eb79/pharokka/input_mash_sketch.msh /data/db/pharokka/9Aug2025_genomes.fa.msh -d 0.2 -i
+2026-10-22 21:27:28.521 | INFO     | pharokka.run:main:520 - Pharokka has finished.
+2026-10-22 21:27:28.521 | INFO     | pharokka.run:main:521 - Elapsed time: 132.57 seconds
+2026-10-22 21:27:28.521 | INFO     | pharokka.run:main:523 - If you use Pharokka in your research, please cite:
+2026-10-22 21:27:28.521 | INFO     | pharokka.run:main:524 - George Bouras, Roshan Nepal, Ghais Houtak, Alkis James Psaltis, Peter-John Wormald, Sarah Vreugde.
+2026-10-22 21:27:28.521 | INFO     | pharokka.run:main:527 - Pharokka: a fast scalable bacteriophage annotation tool.
+2026-10-22 21:27:28.521 | INFO     | pharokka.run:main:528 - Bioinformatics, Volume 39, Issue 1, January 2023, btac776.
+2026-10-22 21:27:28.521 | INFO     | pharokka.run:main:529 - https://doi.org/10.1093/bioinformatics/btac776.
+2026-10-22 21:27:28.521 | INFO     | pharokka.run:main:530 - You should also cite the full list of tools Pharokka uses, which can be found at https://github.com/gbouras13/pharokka#citation.
